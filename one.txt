@@ -1,2 +1,4 @@
 this is first line.
 add another file to folder and commit it.
+add another file to folder and commit it.
+add another file to folder and commit it.
